@@ -133,7 +133,7 @@ In your commit message, preface with one of these tags:
 | `ci` | Issues related to GitHub Actions, testing, or build pipelines. |
 | `chore` | Fixing lint or style. |
 
-Then, save your changes to Github with:
+Ensure you are in the root directory. Then, save your changes to Github with:
 
 ```bash
 git add . 
